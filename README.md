@@ -1,5 +1,3 @@
-# [Application Development and Emerging Technologies]
-
 ## 👋 Hello, World!
 
 I'm Khalil Nicole Aparecio. Welcome to my GitHub Profile!
